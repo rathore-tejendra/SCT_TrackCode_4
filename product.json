@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "iPhone 14 Pro Max 128GB Space Black",
+      "price": "$1099.00",
+      "rating": "3.7",
+      "url": "https://example-store.com/product/1"
+    },
+    {
+      "name": "Samsung Galaxy S23 Ultra 256GB Phantom Black",
+      "price": "$1199.99",
+      "rating": "3.6",
+      "url": "https://example-store.com/product/2"
+    },
+    {
+      "name": "MacBook Air M2 13-inch Silver",
+      "price": "$1199.00",
+      "rating": "3.4",
+      "url": "https://example-store.com/product/3"
+    },
+    {
+      "name": "Sony WH-1000XM4 Wireless Headphones",
+      "price": "$349.99",
+      "rating": "3.5",
+      "url": "https://example-store.com/product/4"
+    },
+    {
+      "name": "Dell XPS 13 Laptop Intel i7 16GB RAM",
+      "price": "$999.99",
+      "rating": "4.8",
+      "url": "https://example-store.com/product/5"
+    }
+  ]
+}
